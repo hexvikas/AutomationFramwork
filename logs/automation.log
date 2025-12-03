@@ -1,0 +1,120 @@
+12/04/2025 12:28:37 AM: INFO: ********** Starting Test for Run ID: 041225_3 **********
+12/04/2025 12:28:37 AM: INFO: Testing with User: testuser@example.com
+12/04/2025 12:28:37 AM: INFO: Opening Login Page URL
+12/04/2025 12:28:39 AM: INFO: Entering email and password
+12/04/2025 12:28:53 AM: ERROR: [FAIL] Login Failed
+12/04/2025 12:28:53 AM: INFO: [SNAPSHOT] Screenshot saved at: reports\Error_ID041225_3_testuser_example_com.png
+12/04/2025 12:28:53 AM: INFO: ********** Test Finished **********
+
+12/04/2025 12:28:56 AM: INFO: ====== WebDriver manager ======
+12/04/2025 12:28:58 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 12:28:59 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 12:29:00 AM: INFO: Driver [C:\Users\144140\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/04/2025 12:29:02 AM: INFO: ********** Starting Test for Run ID: 041225_3 **********
+12/04/2025 12:29:02 AM: INFO: Testing with User: incorrect@email.com
+12/04/2025 12:29:02 AM: INFO: Opening Login Page URL
+12/04/2025 12:29:03 AM: INFO: Entering email and password
+12/04/2025 12:29:17 AM: ERROR: [FAIL] Login Failed
+12/04/2025 12:29:17 AM: INFO: [SNAPSHOT] Screenshot saved at: reports\Error_ID041225_3_incorrect_email_com.png
+12/04/2025 12:29:17 AM: INFO: ********** Test Finished **********
+
+12/04/2025 12:30:15 AM: INFO: ********** Starting Test for Run ID: 041225_4 **********
+12/04/2025 12:30:15 AM: INFO: Testing with User: testuser@example.com
+12/04/2025 12:30:15 AM: INFO: Opening Login Page URL
+12/04/2025 12:30:17 AM: INFO: Entering email and password
+12/04/2025 12:30:29 AM: ERROR: [FAIL] Login Failed
+12/04/2025 12:30:29 AM: INFO: [SNAPSHOT] Screenshot saved at: reports\Error_ID041225_4_testuser_example_com.png
+12/04/2025 12:30:29 AM: INFO: ********** Test Finished **********
+
+12/04/2025 12:30:32 AM: INFO: ====== WebDriver manager ======
+12/04/2025 12:30:35 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 12:30:36 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 12:30:37 AM: INFO: Driver [C:\Users\144140\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/04/2025 12:30:39 AM: INFO: ********** Starting Test for Run ID: 041225_4 **********
+12/04/2025 12:30:39 AM: INFO: Testing with User: incorrect@email.com
+12/04/2025 12:30:39 AM: INFO: Opening Login Page URL
+12/04/2025 12:30:42 AM: INFO: Entering email and password
+12/04/2025 12:30:54 AM: ERROR: [FAIL] Login Failed
+12/04/2025 12:30:54 AM: INFO: [SNAPSHOT] Screenshot saved at: reports\Error_ID041225_4_incorrect_email_com.png
+12/04/2025 12:30:54 AM: INFO: ********** Test Finished **********
+
+12/04/2025 12:38:23 AM: INFO: ********** Starting Test for Run ID: 041225_7 **********
+12/04/2025 12:38:23 AM: INFO: Testing with User: incorrect@email.com
+12/04/2025 12:38:23 AM: INFO: Opening Login Page URL
+12/04/2025 12:38:23 AM: INFO: ********** Starting Test for Run ID: 041225_6 **********
+12/04/2025 12:38:23 AM: INFO: Testing with User: testuser@example.com
+12/04/2025 12:38:23 AM: INFO: Opening Login Page URL
+12/04/2025 12:38:25 AM: INFO: Entering email and password
+12/04/2025 12:38:28 AM: INFO: Entering email and password
+12/04/2025 12:38:44 AM: ERROR: [FAIL] Login Failed
+12/04/2025 12:38:44 AM: INFO: [SNAPSHOT] Screenshot saved at: reports\Error_ID041225_6_testuser_example_com.png
+12/04/2025 12:38:44 AM: INFO: ********** Test Finished **********
+
+12/04/2025 12:38:46 AM: ERROR: [FAIL] Login Failed
+12/04/2025 12:38:46 AM: INFO: [SNAPSHOT] Screenshot saved at: reports\Error_ID041225_7_incorrect_email_com.png
+12/04/2025 12:38:46 AM: INFO: ********** Test Finished **********
+
+12/04/2025 01:08:54 AM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/04/2025 01:08:58 AM: INFO: Login Successful
+12/04/2025 01:10:03 AM: INFO: ====== WebDriver manager ======
+12/04/2025 01:10:05 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 01:10:06 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 01:10:06 AM: INFO: Driver [C:\Users\144140\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/04/2025 01:10:08 AM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/04/2025 01:10:11 AM: INFO: Login Successful
+12/04/2025 01:10:39 AM: INFO: Navigated to Products Page
+12/04/2025 01:10:42 AM: INFO: Searched for: Tshirt
+12/04/2025 01:10:43 AM: ERROR: Failed to add to cart: Message: element click intercepted: Element <a data-product-id="2" class="btn btn-default add-to-cart">...</a> is not clickable at point (818, 888). Other element would receive the click: <iframe id="aswift_2" name="aswift_2" style="min-height: auto; max-height: none; min-width: auto; max-width: none; width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20251202/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-1677597403311019&amp;fa=1&amp;ifi=3&amp;uci=a!3&amp;btvi=2" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CN_l35mWopEDFcCkZgIdG5gwvg" data-load-complete="true"></iframe>
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9f4103
+	0x9f4144
+	0x7fe71d
+	0x850580
+	0x84e8e3
+	0x84c387
+	0x84b5fd
+	0x83fd65
+	0x86c90c
+	0x83f7c4
+	0x86cac4
+	0x88ee17
+	0x86c706
+	0x83da30
+	0x83ed54
+	0xc657b4
+	0xc6098a
+	0xa1c392
+	0xa0c4c8
+	0xa1324d
+	0x9fc478
+	0x9fc63c
+	0x9e67ca
+	0x75725d49
+	0x776cd6db
+	0x776cd661
+
+12/04/2025 01:12:37 AM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/04/2025 01:12:42 AM: INFO: Login Successful
+12/04/2025 01:12:48 AM: INFO: Navigated to Products Page
+12/04/2025 01:12:52 AM: INFO: Searched for: Tshirt
+12/04/2025 01:12:52 AM: INFO: Clicked Add to Cart
+12/04/2025 01:12:54 AM: INFO: Popup handled.
+12/04/2025 01:12:56 AM: INFO: [PASS] Reached Cart Page
+12/04/2025 01:28:45 AM: INFO: ***** Starting TC_01: Register User Test *****
+12/04/2025 01:28:45 AM: INFO: Using Email: user_d4fw568r@gmail.com
+12/04/2025 01:28:58 AM: INFO: ====== WebDriver manager ======
+12/04/2025 01:29:00 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 01:29:01 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 01:29:01 AM: INFO: Driver [C:\Users\144140\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/04/2025 01:29:03 AM: INFO: ***** Starting TC_01: Register User Test *****
+12/04/2025 01:29:03 AM: INFO: Using Email: user_495jsrz6@gmail.com
+12/04/2025 01:33:08 AM: INFO: ***** Starting TC_01: Register User Test *****
+12/04/2025 01:33:08 AM: INFO: Using Email: user_09mvrss9@gmail.com
+12/04/2025 01:33:21 AM: INFO: ====== WebDriver manager ======
+12/04/2025 01:33:22 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 01:33:23 AM: INFO: Get LATEST chromedriver version for google-chrome
+12/04/2025 01:33:24 AM: INFO: Driver [C:\Users\144140\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/04/2025 01:33:26 AM: INFO: ***** Starting TC_01: Register User Test *****
+12/04/2025 01:33:26 AM: INFO: Using Email: user_fv87gyd0@gmail.com

@@ -1,0 +1,13 @@
+AutomationFramework/
+├── pages/                  # Stores Page Object classes (Locators + Actions)
+│   ├── base_page.py
+│   └── login_page.py
+├── tests/                  # Stores actual Test Scripts
+│   ├── conftest.py         # Pytest fixtures (Driver Setup/Teardown)
+│   └── test_login.py
+├── utilities/              # Helper files (Reading Excel, Logging)
+│   └── excel_utils.py
+├── test_data/              # Data files
+│   └── login_data.xlsx
+├── requirements.txt
+└── pytest.ini              # Pytest configuration
