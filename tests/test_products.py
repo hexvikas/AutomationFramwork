@@ -16,29 +16,29 @@ class TestProductFlow:
     def test_search_and_add_to_cart(self, driver):
         self.logger.info("***** Starting Product Search & Add to Cart Test *****")
         
-        # 1. Login Karo (Reuse LoginPage)
+        # 1. Login  (Reuse LoginPage)
         login_page = LoginPage(driver)
         login_page.load()
         login_page.login(self.user, self.pwd)
         self.logger.info("Login Successful")
 
-        # 2. Products Page par jao
+        # 2. Navigate to Products
         prod_page = ProductsPage(driver)
         prod_page.click_products_nav()
         self.logger.info("Navigated to Products Page")
 
-        # 3. Search Karo
+        # 3. Searching product
         prod_page.search_product(self.product_name)
         self.logger.info(f"Searched for: {self.product_name}")
 
-        # 4. Add to Cart (Thoda scroll/wait zaruri ho sakta hai)
-        # Note: Site pe kabhi kabhi ads aate hain, wo handle karna pad sakta hai
+        # 4. Add to Cart waiting for popup
+        # Note: Site sometimes fails to add to cart, so try-except added
         try:
             prod_page.add_first_product_to_cart()
             self.logger.info("Clicked Add to Cart")
             
-            # Popup aane ka wait aur Continue click
-            time.sleep(2) # Chota hard wait popup animation ke liye
+            # waiting for popup and handling
+            time.sleep(2) #Small wait for popup
             prod_page.click_continue_shopping()
             self.logger.info("Product added. Popup handled.")
             
