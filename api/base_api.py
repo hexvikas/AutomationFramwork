@@ -15,6 +15,6 @@ class BaseAPI:
 
         # Auto-add API key
         params["appid"] = self.api_key
-
+        # test api call
         response = requests.get(f"{self.base_url}{endpoint}", params=params)
         return response
