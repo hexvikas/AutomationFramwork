@@ -35,7 +35,8 @@ class CartPage(BasePage):
         time.sleep(2) # To disapper the raw
 
     def click_proceed_to_checkout(self):
-        self.click(self.CHECKOUT_BTN)
+        # CHANGE: Use force_click instead of click to bypass Ads
+        self.force_click(self.CHECKOUT_BTN)
         
     def click_modal_register_login(self):
         self.click(self.MODAL_REGISTER_LOGIN_LINK)
