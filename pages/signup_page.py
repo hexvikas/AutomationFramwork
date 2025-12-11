@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
-from pages.base_page import BasePage
+from core.base_page import BasePage
 from utilities.read_config import ReadConfig
 
 class SignupPage(BasePage):

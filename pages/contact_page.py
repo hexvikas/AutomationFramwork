@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from pages.base_page import BasePage
+from core.base_page import BasePage
 
 class ContactPage(BasePage):
     CONTACT_LINK = (By.XPATH, "//a[@href='/contact_us']")

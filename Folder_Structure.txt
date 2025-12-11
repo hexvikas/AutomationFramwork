@@ -1,13 +1,63 @@
 AutomationFramework/
-├── pages/                  # Stores Page Object classes (Locators + Actions)
+│
+├── api/
+│   ├── base_api.py
+│   ├── weather_api.py
+│   └── reports/
+│
+├── config/
+│   ├── config.ini
+│   └── capabilities/
+│       └── android_caps.json
+│
+├── core/
 │   ├── base_page.py
-│   └── login_page.py
-├── tests/                  # Stores actual Test Scripts
-│   ├── conftest.py         # Pytest fixtures (Driver Setup/Teardown)
-│   └── test_login.py
-├── utilities/              # Helper files (Reading Excel, Logging)
-│   └── excel_utils.py
-├── test_data/              # Data files
-│   └── login_data.xlsx
+│   ├── driver_factory.py
+│   ├── mobile_driver.py
+│   └── __init__.py
+│
+├── pages/
+│   ├── login_page.py
+│   ├── signup_page.py
+│   ├── products_page.py
+│   ├── cart_page.py
+│   ├── checkout_page.py
+│   ├── contact_page.py
+│   ├── payment_page.py
+│   └── __init__.py
+│
+├── mobile/
+│   ├── pages/
+│   │   └── mobile_login_page.py
+│   ├── utils/
+│   │   └── mobile_utils.py
+│   └── drivers/
+│       └── android_driver.py
+│
+├── tests/
+│   ├── web/
+│   │   ├── test_login.py
+│   │   ├── test_signup.py
+│   │   ├── test_products.py
+│   │   ├── test_cart.py
+│   │   └── test_checkout.py
+│   │
+│   ├── api/
+│   │   └── test_api_weather.py
+│   │
+│   ├── mobile/
+│   │   └── test_mobile_login.py
+│   │
+│   └── conftest.py
+│
+├── utils/
+│   ├── custom_logger.py
+│   ├── read_config.py
+│   ├── test_data.py
+│   └── helpers.py
+│
+├── reports/
+├── screenshots/
 ├── requirements.txt
-└── pytest.ini              # Pytest configuration
+├── pytest.ini
+└── run_counter.txt

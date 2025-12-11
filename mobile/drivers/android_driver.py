@@ -1,12 +1,15 @@
+from appium.webdriver import Remote
 import json
 import os
-from appium import webdriver
+
 
 class AndroidDriver:
 
     def __init__(self, caps_path: str | None = None):
+        # Load capabilities JSON file
         if caps_path is None:
             caps_path = os.path.join(os.getcwd(), "android_caps.json")
+
         with open(caps_path, "r") as f:
             cfg = json.load(f)
 
@@ -14,7 +17,8 @@ class AndroidDriver:
         self.caps = cfg["capabilities"]
 
     def get_driver(self):
-        driver = webdriver.Remote(
+        """Create and return Appium Android driver instance"""
+        driver = Remote(
             command_executor=self.server_url,
             desired_capabilities=self.caps
         )

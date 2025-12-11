@@ -891,3 +891,294 @@ Symbols not available. Dumping unresolved backtrace:
 12/09/2025 04:00:23 PM: INFO: Driver [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
 12/09/2025 04:00:26 PM: INFO: *** Starting Test: correct_user@test.com | Type: Invalid ***
 12/09/2025 04:00:52 PM: INFO: [PASS] Login Failed as expected
+12/11/2025 03:09:40 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:09:40 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:09:40 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:09:40 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:09:40 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:09:40 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:09:54 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:09:54 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:09:55 PM: INFO: ***** TC: Remove Product From Cart *****
+12/11/2025 03:09:59 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/11/2025 03:10:00 PM: INFO: Closing driver session...
+12/11/2025 03:10:01 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:10:03 PM: INFO: ***** TC: Verify Product Quantity *****
+12/11/2025 03:10:06 PM: INFO: Closing driver session...
+12/11/2025 03:10:06 PM: INFO: Closing driver session...
+12/11/2025 03:10:08 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:10:08 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:10:10 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:10:10 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:10:11 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:10:11 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:10:12 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:10:13 PM: INFO: ***** TC: Remove Product From Cart *****
+12/11/2025 03:10:15 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:10:17 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:10:19 PM: INFO: ***** TC: Verify Product Quantity *****
+12/11/2025 03:10:19 PM: INFO: Closing driver session...
+12/11/2025 03:10:23 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/11/2025 03:10:25 PM: INFO: Closing driver session...
+12/11/2025 03:10:26 PM: INFO: Closing driver session...
+12/11/2025 03:10:31 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:10:31 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:10:31 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:10:31 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:10:31 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:10:31 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:10:34 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:10:36 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:10:36 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:10:38 PM: INFO: ***** Starting TC: Contact Us Form *****
+12/11/2025 03:10:38 PM: INFO: ---- Starting Login Test | Email: correct_user@test.com | Expected: Valid ----
+12/11/2025 03:10:40 PM: INFO: ---- Starting Login Test | Email: wrong_user@test.com | Expected: Invalid ----
+12/11/2025 03:10:50 PM: INFO: Closing driver session...
+12/11/2025 03:10:54 PM: INFO: Closing driver session...
+12/11/2025 03:11:00 PM: INFO: Opened Contact Page
+12/11/2025 03:11:01 PM: INFO: Closing driver session...
+12/11/2025 03:11:04 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:11:04 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:11:05 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:11:05 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:11:06 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:11:06 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:11:08 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:11:11 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:11:12 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:11:14 PM: INFO: ***** Starting TC: Contact Us Form *****
+12/11/2025 03:11:17 PM: INFO: ---- Starting Login Test | Email: correct_user@test.com | Expected: Valid ----
+12/11/2025 03:11:18 PM: INFO: ---- Starting Login Test | Email: wrong_user@test.com | Expected: Invalid ----
+12/11/2025 03:11:29 PM: INFO: Closing driver session...
+12/11/2025 03:11:51 PM: INFO: Opened Contact Page
+12/11/2025 03:11:52 PM: INFO: Closing driver session...
+12/11/2025 03:11:52 PM: INFO: Closing driver session...
+12/11/2025 03:11:59 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:11:59 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:12:02 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:12:03 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:12:03 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:12:06 PM: INFO: ---- Starting Login Test | Email:  | Expected: Invalid ----
+12/11/2025 03:12:08 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:12:08 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:12:08 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:12:15 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:12:18 PM: INFO: ---- Starting Login Test | Email: correct_user@test.com | Expected: Invalid ----
+12/11/2025 03:12:28 PM: INFO: ---- Starting Login Test | Email: wrong_user@test.com | Expected: Invalid ----
+12/11/2025 03:12:37 PM: INFO: Closing driver session...
+12/11/2025 03:12:38 PM: INFO: Closing driver session...
+12/11/2025 03:12:38 PM: INFO: Closing driver session...
+12/11/2025 03:12:45 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:12:45 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:12:45 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:12:45 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:12:45 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:12:45 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:12:49 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:12:49 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:12:51 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:12:53 PM: INFO: ---- Starting Login Test | Email: wrong_user@test.com | Expected: Invalid ----
+12/11/2025 03:12:57 PM: INFO: ---- Starting Login Test | Email: correct_user@test.com | Expected: Invalid ----
+12/11/2025 03:12:57 PM: INFO: ---- Starting Login Test | Email:  | Expected: Invalid ----
+12/11/2025 03:12:59 PM: INFO: Closing driver session...
+12/11/2025 03:13:15 PM: INFO: Closing driver session...
+12/11/2025 03:13:18 PM: INFO: Closing driver session...
+12/11/2025 03:13:22 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:13:22 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:13:23 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:13:23 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:13:24 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:13:24 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:13:27 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:13:27 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:13:29 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:13:31 PM: INFO: ***** Starting TC_01: Register User Test *****
+12/11/2025 03:13:31 PM: INFO: Using Email: test_user10_111225@gmail.com
+12/11/2025 03:13:33 PM: INFO: ---- Starting Login Test | Email: correct_user@test.com | Expected: Invalid ----
+12/11/2025 03:13:40 PM: INFO: Application URL Loaded
+12/11/2025 03:13:41 PM: INFO: Closing driver session...
+12/11/2025 03:13:43 PM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/11/2025 03:13:50 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:13:50 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:13:56 PM: INFO: Closing driver session...
+12/11/2025 03:13:59 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:14:03 PM: INFO: Closing driver session...
+12/11/2025 03:14:03 PM: INFO: ***** Starting TC_01: Register User Test *****
+12/11/2025 03:14:03 PM: INFO: Using Email: test_user11_111225@gmail.com
+12/11/2025 03:14:06 PM: INFO: Application URL Loaded
+12/11/2025 03:14:07 PM: INFO: Closing driver session...
+12/11/2025 03:14:13 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:14:13 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:14:13 PM: INFO: === Launching tests on platform: web ===
+12/11/2025 03:14:13 PM: INFO: Initializing Selenium WebDriver...
+12/11/2025 03:14:16 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:14:16 PM: INFO: Navigating to: https://automationexercise.com/login
+12/11/2025 03:14:18 PM: INFO: ---- Starting Login Test | Email: correct_user@test.com | Expected: Invalid ----
+12/11/2025 03:14:19 PM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/11/2025 03:14:21 PM: INFO: Closing driver session...
+12/11/2025 03:14:23 PM: INFO: Closing driver session...
+12/11/2025 06:01:43 PM: INFO: xdist worker is: gw0
+12/11/2025 06:01:43 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:01:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:01:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:01:49 PM: INFO: There is no [win64] chromedriver "143.0.7499.42" for browser google-chrome "143.0.7499" in cache
+12/11/2025 06:01:49 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:01:50 PM: INFO: WebDriver version 143.0.7499.42 selected
+12/11/2025 06:01:50 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+12/11/2025 06:01:50 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+12/11/2025 06:01:51 PM: INFO: Driver downloading response is 200
+12/11/2025 06:01:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:01:54 PM: INFO: Driver has been saved in cache [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\143.0.7499.42]
+12/11/2025 06:01:54 PM: INFO: xdist worker is: gw0
+12/11/2025 06:01:54 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:01:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:01:59 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:02:00 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:02:28 PM: INFO: xdist worker is: gw0
+12/11/2025 06:02:28 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:02:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:02:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:02:33 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:02:42 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:02:42 PM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/11/2025 06:02:50 PM: INFO: Login Successful
+12/11/2025 06:02:54 PM: INFO: Navigated to Products Page
+12/11/2025 06:02:58 PM: INFO: Searched for: Tshirt
+12/11/2025 06:02:59 PM: INFO: Clicked Add to Cart
+12/11/2025 06:03:01 PM: INFO: Product added. Popup handled.
+12/11/2025 06:03:05 PM: INFO: Navigated to Cart Page
+12/11/2025 06:03:05 PM: INFO: [PASS] Successfully reached Cart Page
+12/11/2025 06:03:08 PM: INFO: \u2705 Driver closed
+12/11/2025 06:03:32 PM: INFO: xdist worker is: gw2
+12/11/2025 06:03:32 PM: INFO: xdist worker is: gw0
+12/11/2025 06:03:32 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:03:32 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:03:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:41 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:03:41 PM: INFO: There is no [win64] chromedriver "143.0.7499.42" for browser google-chrome "143.0.7499" in cache
+12/11/2025 06:03:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:41 PM: INFO: There is no [win64] chromedriver "143.0.7499.42" for browser google-chrome "143.0.7499" in cache
+12/11/2025 06:03:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:46 PM: INFO: WebDriver version 143.0.7499.42 selected
+12/11/2025 06:03:46 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+12/11/2025 06:03:46 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+12/11/2025 06:03:47 PM: INFO: WebDriver version 143.0.7499.42 selected
+12/11/2025 06:03:47 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+12/11/2025 06:03:47 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+12/11/2025 06:03:48 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:03:48 PM: INFO: ***** TC: Verify Product Quantity *****
+12/11/2025 06:03:48 PM: INFO: Driver downloading response is 200
+12/11/2025 06:03:49 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:49 PM: INFO: Driver downloading response is 200
+12/11/2025 06:03:50 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:03:53 PM: INFO: Driver has been saved in cache [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\143.0.7499.42]
+12/11/2025 06:03:54 PM: INFO: Driver has been saved in cache [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\143.0.7499.42]
+12/11/2025 06:04:00 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:04:00 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/11/2025 06:04:06 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:04:06 PM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/11/2025 06:04:15 PM: INFO: [PASS] Cart shows Quantity 4
+12/11/2025 06:04:26 PM: INFO: Login Successful
+12/11/2025 06:04:27 PM: INFO: Logged in successfully
+12/11/2025 06:04:39 PM: INFO: Navigated to Products Page
+12/11/2025 06:04:42 PM: INFO: \u2705 Driver closed
+12/11/2025 06:04:42 PM: INFO: xdist worker is: gw0
+12/11/2025 06:04:42 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:04:44 PM: INFO: Product added to cart
+12/11/2025 06:04:45 PM: INFO: Proceeded to Checkout Page
+12/11/2025 06:04:49 PM: INFO: Searched for: Tshirt
+12/11/2025 06:04:49 PM: INFO: Clicked Add to Cart
+12/11/2025 06:04:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:04:51 PM: INFO: Product added. Popup handled.
+12/11/2025 06:04:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:04:56 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:05:00 PM: INFO: Navigated to Cart Page
+12/11/2025 06:05:00 PM: INFO: [PASS] Successfully reached Cart Page
+12/11/2025 06:05:02 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:05:02 PM: INFO: ***** TC: Remove Product From Cart *****
+12/11/2025 06:05:07 PM: INFO: \u2705 Driver closed
+12/11/2025 06:05:07 PM: INFO: xdist worker is: gw1
+12/11/2025 06:05:07 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:05:07 PM: INFO: \u2705 Driver closed
+12/11/2025 06:05:07 PM: INFO: xdist worker is: gw2
+12/11/2025 06:05:07 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:05:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:05:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:05:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:05:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:05:20 PM: INFO: Driver [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:05:20 PM: INFO: Driver [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:05:30 PM: INFO: Clicked Remove Button
+12/11/2025 06:05:30 PM: INFO: [PASS] Product Removed Successfully
+12/11/2025 06:05:32 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:05:32 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/11/2025 06:05:33 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:05:33 PM: INFO: ***** Starting TC_01: Register User Test *****
+12/11/2025 06:05:34 PM: INFO: Using Email: test_user12_111225@gmail.com
+12/11/2025 06:05:39 PM: INFO: Application URL Loaded
+12/11/2025 06:05:50 PM: INFO: Logged in successfully
+12/11/2025 06:06:07 PM: INFO: Product added to cart
+12/11/2025 06:06:07 PM: INFO: Proceeded to Checkout Page
+12/11/2025 06:06:12 PM: INFO: \u2705 Driver closed
+12/11/2025 06:06:26 PM: INFO: \u2705 Driver closed
+12/11/2025 06:06:26 PM: INFO: xdist worker is: gw1
+12/11/2025 06:06:26 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:06:28 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:06:29 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:06:30 PM: INFO: Driver [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:06:33 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:06:33 PM: INFO: ***** Starting TC: Contact Us Form *****
+12/11/2025 06:06:41 PM: INFO: Opened Contact Page
+12/11/2025 06:06:42 PM: INFO: Form Filled & File Uploaded
+12/11/2025 06:06:42 PM: INFO: Form Submitted
+12/11/2025 06:06:46 PM: INFO: \u2705 Driver closed
+12/11/2025 06:06:46 PM: INFO: xdist worker is: gw1
+12/11/2025 06:06:46 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:06:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:06:50 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:06:50 PM: INFO: Driver [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:06:55 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:06:55 PM: INFO: ***** Starting TC: Contact Us Form *****
+12/11/2025 06:07:07 PM: INFO: Opened Contact Page
+12/11/2025 06:07:11 PM: INFO: Form Filled & File Uploaded
+12/11/2025 06:07:12 PM: INFO: Form Submitted
+12/11/2025 06:07:17 PM: INFO: \u2705 Driver closed
+12/11/2025 06:09:39 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=53505): Read timed out. (read timeout=120)")': /session/3ceff362bda7141157cf226f2c82eaa1/screenshot
+12/11/2025 06:10:09 PM: INFO: \u2705 Driver closed
+12/11/2025 06:10:09 PM: INFO: xdist worker is: gw2
+12/11/2025 06:10:09 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:10:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:10:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:10:14 PM: INFO: Driver [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:10:19 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:10:19 PM: INFO: ***** Starting TC_01: Register User Test *****
+12/11/2025 06:10:19 PM: INFO: Using Email: test_user13_111225@gmail.com
+12/11/2025 06:10:19 PM: INFO: Application URL Loaded
+12/11/2025 06:12:11 PM: INFO: \u2705 Driver closed
+12/11/2025 06:22:09 PM: INFO: xdist worker is: gw0
+12/11/2025 06:22:09 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:22:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:22:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:22:15 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:22:21 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:22:21 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/11/2025 06:22:26 PM: INFO: Logged in successfully
+12/11/2025 06:22:36 PM: INFO: Product added to cart
+12/11/2025 06:22:36 PM: INFO: Proceeded to Checkout Page
+12/11/2025 06:22:55 PM: INFO: \u2705 Driver closed
+12/11/2025 06:22:55 PM: INFO: xdist worker is: gw0
+12/11/2025 06:22:55 PM: INFO: ====== WebDriver manager ======
+12/11/2025 06:22:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:22:59 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/11/2025 06:23:00 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+12/11/2025 06:23:05 PM: INFO: \u2705 Driver initialized: https://automationexercise.com/login
+12/11/2025 06:23:05 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/11/2025 06:23:11 PM: INFO: Logged in successfully
+12/11/2025 06:23:18 PM: INFO: Product added to cart
+12/11/2025 06:23:18 PM: INFO: Proceeded to Checkout Page
+12/11/2025 06:23:37 PM: INFO: \u2705 Driver closed

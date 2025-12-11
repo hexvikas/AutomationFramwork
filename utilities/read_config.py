@@ -1,30 +1,27 @@
 import configparser
 import os
 
-config = configparser.RawConfigParser()
-config_path = os.path.join(os.getcwd(), 'config.ini')
-config.read(config_path)
-
 class ReadConfig:
+
+    config = configparser.RawConfigParser()
+
+    # Always read config relative to project root
+    config_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "config", "config.ini")
+    config.read(config_path)
+
     @staticmethod
     def get_application_url():
-        return config.get('common info', 'base_url')
-
-    # --- NEW METHOD ---
-    @staticmethod
-    def get_api_url():
-        try:
-            return config.get('common info', 'api_url')
-        except:
-            return None
+        return ReadConfig.config.get("common", "baseURL")
 
     @staticmethod
-    def get_browser_name():
-        return config.get('common info', 'browser')
-        
+    def get_browser():
+        return ReadConfig.config.get("common", "browser")
+
+    # ---------------- API READERS ----------------
     @staticmethod
-    def get_wait_time():
-        try:
-            return int(config.get('common info', 'implicit_wait'))
-        except:
-            return 10
+    def get_weather_api_url():
+        return ReadConfig.config.get("api", "weather_api_url")
+
+    @staticmethod
+    def get_weather_api_key():
+        return ReadConfig.config.get("api", "api_key")
