@@ -5,3 +5,4 @@ openpyxl
 webdriver-manager
 pytest-xdist
 pytest-rerunfailures
+Appium-Python-Client==3.2.1

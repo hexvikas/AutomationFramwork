@@ -744,3 +744,150 @@ Symbols not available. Dumping unresolved backtrace:
 12/05/2025 04:51:55 PM: INFO: Registration form filled
 12/05/2025 04:51:55 PM: INFO: [PASS] Account Created Successfully
 12/05/2025 04:52:04 PM: INFO: [PASS] Account Deleted Successfully
+12/09/2025 03:38:14 PM: INFO: xdist worker is: gw2
+12/09/2025 03:38:14 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:38:14 PM: INFO: xdist worker is: gw1
+12/09/2025 03:38:14 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:38:14 PM: INFO: xdist worker is: gw0
+12/09/2025 03:38:14 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:38:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:23 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:23 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:23 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:25 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:25 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:25 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:29 PM: INFO: WebDriver version 142.0.7444.175 selected
+12/09/2025 03:38:29 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+12/09/2025 03:38:29 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+12/09/2025 03:38:29 PM: INFO: WebDriver version 142.0.7444.175 selected
+12/09/2025 03:38:29 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+12/09/2025 03:38:29 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+12/09/2025 03:38:30 PM: INFO: WebDriver version 142.0.7444.175 selected
+12/09/2025 03:38:30 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+12/09/2025 03:38:30 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+12/09/2025 03:38:31 PM: INFO: Driver downloading response is 200
+12/09/2025 03:38:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:31 PM: INFO: Driver downloading response is 200
+12/09/2025 03:38:31 PM: INFO: Driver downloading response is 200
+12/09/2025 03:38:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:38:33 PM: INFO: Driver has been saved in cache [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\142.0.7444.175]
+12/09/2025 03:38:34 PM: INFO: Driver has been saved in cache [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\142.0.7444.175]
+12/09/2025 03:38:34 PM: INFO: Driver has been saved in cache [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\142.0.7444.175]
+12/09/2025 03:38:38 PM: INFO: ***** TC: Verify Product Quantity *****
+12/09/2025 03:38:38 PM: INFO: ***** Starting TC: Contact Us Form *****
+12/09/2025 03:38:39 PM: INFO: ***** TC: Remove Product From Cart *****
+12/09/2025 03:39:08 PM: INFO: [PASS] Cart shows Quantity 4
+12/09/2025 03:39:09 PM: INFO: Clicked Remove Button
+12/09/2025 03:39:09 PM: INFO: Opened Contact Page
+12/09/2025 03:39:13 PM: INFO: Form Filled & File Uploaded
+12/09/2025 03:39:13 PM: INFO: Form Submitted
+12/09/2025 03:39:13 PM: INFO: [PASS] Contact Form Verified
+12/09/2025 03:39:17 PM: INFO: xdist worker is: gw2
+12/09/2025 03:39:17 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:39:17 PM: INFO: xdist worker is: gw0
+12/09/2025 03:39:17 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:39:19 PM: INFO: [PASS] Product Removed Successfully
+12/09/2025 03:39:21 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:39:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:39:23 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:39:23 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:39:24 PM: INFO: Driver [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:39:25 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:39:28 PM: INFO: *** Starting Test: wrong_user@test.com | Type: Invalid ***
+12/09/2025 03:39:29 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/09/2025 03:39:37 PM: INFO: Logged in successfully
+12/09/2025 03:39:56 PM: INFO: xdist worker is: gw1
+12/09/2025 03:39:56 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:39:57 PM: INFO: [PASS] Login Failed as expected
+12/09/2025 03:40:02 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:40:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:40:05 PM: INFO: Driver [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:40:08 PM: INFO: *** Starting Test: correct_user@test.com | Type: Valid ***
+12/09/2025 03:40:09 PM: INFO: xdist worker is: gw0
+12/09/2025 03:40:09 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:40:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:40:19 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:40:20 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:40:23 PM: INFO: *** Starting Test: wrong_user@test.com | Type: Invalid ***
+12/09/2025 03:40:37 PM: ERROR: [FAIL] Login Failed
+12/09/2025 03:40:48 PM: INFO: xdist worker is: gw1
+12/09/2025 03:40:48 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:40:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:40:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:40:56 PM: INFO: Driver [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:40:59 PM: INFO: *** Starting Test: correct_user@test.com | Type: Valid ***
+12/09/2025 03:41:03 PM: INFO: [PASS] Login Failed as expected
+12/09/2025 03:41:09 PM: INFO: xdist worker is: gw0
+12/09/2025 03:41:09 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:41:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:41:19 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:41:21 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:41:25 PM: INFO: *** Starting Test: correct_user@test.com | Type: Invalid ***
+12/09/2025 03:41:26 PM: ERROR: [FAIL] Login Failed
+12/09/2025 03:41:31 PM: INFO: xdist worker is: gw1
+12/09/2025 03:41:31 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:41:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:41:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:41:43 PM: INFO: Driver [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:41:48 PM: INFO: *** Starting Test:  | Type: Invalid ***
+12/09/2025 03:41:50 PM: INFO: [PASS] Login Failed as expected
+12/09/2025 03:41:59 PM: INFO: xdist worker is: gw0
+12/09/2025 03:41:59 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:42:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:42:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:42:15 PM: INFO: [PASS] Login Failed as expected
+12/09/2025 03:42:15 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:42:18 PM: INFO: xdist worker is: gw1
+12/09/2025 03:42:18 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:42:18 PM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/09/2025 03:42:25 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:42:25 PM: INFO: Login Successful
+12/09/2025 03:42:27 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:42:29 PM: INFO: Driver [C:\Users\144140\.wdm\gw1\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:42:39 PM: INFO: ***** Starting Product Search & Add to Cart Test *****
+12/09/2025 03:42:45 PM: INFO: Navigated to Products Page
+12/09/2025 03:42:48 PM: INFO: Login Successful
+12/09/2025 03:42:55 PM: INFO: Searched for: Tshirt
+12/09/2025 03:43:02 PM: INFO: Clicked Add to Cart
+12/09/2025 03:43:04 PM: INFO: Navigated to Products Page
+12/09/2025 03:43:04 PM: INFO: Popup handled.
+12/09/2025 03:43:07 PM: INFO: [PASS] Reached Cart Page
+12/09/2025 03:43:07 PM: INFO: Searched for: Tshirt
+12/09/2025 03:43:07 PM: INFO: Clicked Add to Cart
+12/09/2025 03:43:09 PM: INFO: Product added. Popup handled.
+12/09/2025 03:43:12 PM: INFO: Navigated to Cart Page
+12/09/2025 03:43:12 PM: INFO: [PASS] Successfully reached Cart Page
+12/09/2025 03:43:13 PM: INFO: xdist worker is: gw0
+12/09/2025 03:43:13 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:43:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:43:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:43:20 PM: INFO: Driver [C:\Users\144140\.wdm\gw0\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:43:23 PM: INFO: ***** Starting TC_01: Register User Test *****
+12/09/2025 03:43:23 PM: INFO: Using Email: test_user9_091225@gmail.com
+12/09/2025 03:43:26 PM: INFO: Application URL Loaded
+12/09/2025 03:43:34 PM: INFO: Initial details filled
+12/09/2025 03:43:40 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=55802): Read timed out. (read timeout=120)")': /session/b598c1006997d047abdfd3c764318a3c
+12/09/2025 03:43:44 PM: INFO: Registration form filled
+12/09/2025 03:43:44 PM: INFO: [PASS] Account Created Successfully
+12/09/2025 03:43:49 PM: INFO: [PASS] Account Deleted Successfully
+12/09/2025 03:45:40 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=55802): Read timed out. (read timeout=120)")': /session/b598c1006997d047abdfd3c764318a3c
+12/09/2025 03:59:21 PM: INFO: xdist worker is: gw2
+12/09/2025 03:59:21 PM: INFO: ====== WebDriver manager ======
+12/09/2025 03:59:28 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:59:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 03:59:31 PM: INFO: Driver [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 03:59:34 PM: INFO: ***** TC: Place Order: Login before Checkout *****
+12/09/2025 03:59:40 PM: INFO: Logged in successfully
+12/09/2025 03:59:52 PM: INFO: Product added to cart
+12/09/2025 03:59:52 PM: INFO: Proceeded to Checkout Page
+12/09/2025 04:00:16 PM: INFO: xdist worker is: gw2
+12/09/2025 04:00:16 PM: INFO: ====== WebDriver manager ======
+12/09/2025 04:00:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 04:00:21 PM: INFO: Get LATEST chromedriver version for google-chrome
+12/09/2025 04:00:23 PM: INFO: Driver [C:\Users\144140\.wdm\gw2\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+12/09/2025 04:00:26 PM: INFO: *** Starting Test: correct_user@test.com | Type: Invalid ***
+12/09/2025 04:00:52 PM: INFO: [PASS] Login Failed as expected

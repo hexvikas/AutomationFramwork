@@ -1,0 +1,12 @@
+{
+  "server_url": "http://127.0.0.1:4723",
+  "capabilities": {
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "deviceName": "OnePlus_13R",
+    "udid": "c9256c47",
+    "browserName": "Chrome",
+    "autoGrantPermissions": true,
+    "newCommandTimeout": 300
+  }
+}
